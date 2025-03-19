@@ -1,0 +1,28 @@
+/*CSS*/
+footer{
+    background-color: rgb(167, 154, 240);
+    text-align: center;
+    padding: 20px;
+    clear: both;
+}
+
+header{
+    background-color: rgb(240, 216, 154);
+    text-align: center;
+    padding: 20px;
+
+}
+
+article{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    overflow: auto;
+}
+
+section{
+    width: 33%;
+    float: left;
+    border-style: solid;
+    overflow: auto;
+}

@@ -1,0 +1,96 @@
+/*
+Estilo para web
+*/
+body{
+	background-color:rgb(220, 200, 255);
+}
+
+div{
+	width: 50%;
+	height: 90px;
+	/*margin: 10px;*/
+	padding: auto;
+	text-align: center;
+	text-overflow: auto;
+	border-radius: 20px;
+	overflow: hidden;
+}
+.div1{
+	float: auto;
+	padding: 20px;
+	text-align: center;
+	text-overflow: auto;
+	border-radius: 20px;
+	overflow: hidden;
+	clear:both;
+}
+
+#graybox{
+	background-color: gray;
+	/*float: left;*/
+	clear: both;
+	width: 100%;
+	height: 200px;
+}
+#blackbox{
+	background-color: black;
+	color: white;
+	float: right;
+}
+.pinkbox{
+	background-color: pink;
+	float: left;
+}
+.purplebox{
+	background-color: #9475e7;
+	/*float: right;*/
+	clear: both;
+	width: 100%;
+	height: 200px;
+}
+article{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+}
+
+section{
+    width: 33%;
+    float: left;
+    border-style: solid;
+    overflow: hidden;
+}
+
+h1{
+	background: url("image/foto2.jpg");
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: rgb(240, 227, 143);
+	color:white;
+	border: solid;
+	border-radius: 20px;
+	padding: 20px;
+	text-align: center;
+	
+}
+h3{
+	color:rgb(157, 0, 255);
+}
+footer{
+	text-align: center;
+	color:rgb(39, 36, 85);
+}
+.p2{
+	color: #a1abf3;
+}
+p{
+	color:rgb(39, 36, 85);
+}
+pre{
+	background-color: #d1b2e7;
+	color:blue;
+}
+/*font-family: "Times New Roman", Times, serif;
+font-family: Arial, Helvetica, sans-serif;*/
+
+
